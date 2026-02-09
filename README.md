@@ -1,3 +1,11 @@
+
+
+
+<img width="676" height="667" alt="Veritas Lab Home" src="https://github.com/user-attachments/assets/d087e71c-f408-44ee-86cb-46d46a7d1772" />
+
+<img width="671" height="599" alt="VeritasLab Forward" src="https://github.com/user-attachments/assets/93d34928-0b42-430f-be28-5156806144db" />
+
+
 # Veritas Lab
 
 **One truth. Every tool. Zero drift.**
